@@ -12,7 +12,9 @@ import crypto from 'crypto';
 const DOMESTIC_CANDIDATES: string[] = [
   // 国内优先源（经过验证的真实可用源）
   'https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
-
+ 'https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
+  'https://raw.gitmirror.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
+  'https://ghproxy.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
 ];
 
 const INTERNATIONAL_CANDIDATES: string[] = [
