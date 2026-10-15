@@ -11,9 +11,8 @@ import crypto from 'crypto';
 // 注意：所有源地址都经过实际测试验证
 const DOMESTIC_CANDIDATES: string[] = [
   // 国内优先源（经过验证的真实可用源）
-  'https://agit.ai/Yoursmile7/TVBox/raw/branch/master/jar/custom_spider.jar',
   'https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
-  'https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
+
 ];
 
 const INTERNATIONAL_CANDIDATES: string[] = [
