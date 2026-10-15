@@ -41,9 +41,9 @@ interface DiagnosticReport {
 // JAR 源配置（使用真实可用的源）
 const JAR_SOURCES = {
   domestic: [
-    'https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
-    'https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
-    'https://gh.api.99988866.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
+ 'https://gitee.com/hd2019/OneClickRun/raw/master/xpath/custom_spider.jar',
+'https://gitee.com/hd2019/OneClickRun/raw/master/xpath/xm.jar',
+'https://gitee.com/hd2019/OneClickRun/raw/master/xpath/baikan.jar',
   ],
   international: [
     'https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
