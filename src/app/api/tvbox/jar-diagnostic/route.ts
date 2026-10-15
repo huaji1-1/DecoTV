@@ -41,13 +41,8 @@ interface DiagnosticReport {
 // JAR 源配置（使用真实可用的源）
 const JAR_SOURCES = {
   domestic: [
-    'https://agit.ai/Yoursmile7/TVBox/raw/branch/master/jar/custom_spider.jar',
     'https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
-    'https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
     'https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
-    'https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
-    'https://raw.gitmirror.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
-    'https://ghproxy.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
     'https://gh.api.99988866.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar',
   ],
   international: [
